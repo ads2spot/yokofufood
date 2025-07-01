@@ -1,7 +1,7 @@
 {
   "name": "Yokofu Gourmet Food",
   "short_name": "Yokofu",
-  "start_url": "/",
+  "start_url": "/yokofufood",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
