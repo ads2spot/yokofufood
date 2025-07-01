@@ -3,8 +3,8 @@
   "short_name": "Yokofu",
   "start_url": "/yokofufood",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "background_color": "#FDC47D",
+  "theme_color": "#FDC47D",
   "icons": [
     {
       "src": "./ykf.png",
